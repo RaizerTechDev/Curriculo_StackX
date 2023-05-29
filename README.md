@@ -5,7 +5,7 @@
 
 <div align="center">
 
-<img height="120em" src="images/ImagemDevRafa.png"  align="center">
+<img height="120em" src="image/ImagemDevRafa.png"  align="center">
 
 <a href="https://git.io/typing-svg" align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=120A2A&center=true&vCenter=true&width=435&lines=Desenvolvedor+Front+End+Júnior" alt="Typing SVG" /></a> <img src="https://media.giphy.com/media/l1J9sBOqBIvnafnUc/giphy.gif" width="70">
 ---
@@ -36,11 +36,11 @@
 # <div align="center">
 # <img src="https://media.giphy.com/media/9TFBxN300KpCUI6sBD/giphy.gif" align="center" height="95" width="95">
 
-### [Clique aqui para acessar o Projeto](https://rafarz76dev-projeto-back-front.netlify.app/)
+### [Clique aqui para acessar o Projeto](https://rafarz76dev-curriculostackx.netlify.app/)
 
 ---
 
-  <img src="images/burgerplace -Home.png" align="center" height="500em" width="100%" href="https://rafarz76dev-03-desafiostackx-web-3-0-vue-js.vercel.app">  
+  <img src="image/curriculo_rafadev76.png" align="center" height="500em" width="100%" href="https://rafarz76dev-curriculostackx.netlify.app/">  
   
 ***
 ### 😀👀 Bora conhecer o projeto....
