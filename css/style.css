@@ -114,11 +114,11 @@ img:hover {
   text-align: center;
 }
 .hr_04::after {
-  content: "Prêmios, Reconhecimentos e Certificados";
+  content: "Prêmios/ Reconhecimentos";
   display: inline;
   position: relative;
   top: -0.7em;
-  font-size: 1.4em;
+  font-size: 1.3em;
   padding: 0 0.3em;
   background-color: #fff;
 }
@@ -137,5 +137,23 @@ img:hover {
   top: -0.7em;
   font-size: 1.4em;
   padding: 0 0.3em;
-  background-color: #fff;
+  background-color: #fff;  
 }
+.hr_06 {
+  border-top: medium dashed #069;
+  border-bottom: medium dashed #069;
+  height: 3px;
+  overflow: visible;
+  padding: 0;
+  text-align: center;
+}
+.hr_06::after {
+  content: "Outros Cursos T.I.";
+  display: inline;
+  position: relative;
+  top: -0.7em;
+  font-size: 1.4em;
+  padding: 0 0.3em;
+  background-color: #fff;  
+}
+
