@@ -53,6 +53,9 @@ img:hover {
   padding: 0 0.3em;
   background: white;
 }
+.hr_dados1 span a {
+  color: #069;
+}
 .hr_01 {
   border-top: medium dashed #069;
   border-bottom: medium dashed #069;
@@ -137,7 +140,7 @@ img:hover {
   top: -0.7em;
   font-size: 1.4em;
   padding: 0 0.3em;
-  background-color: #fff;  
+  background-color: #fff;
 }
 .hr_06 {
   border-top: medium dashed #069;
@@ -154,6 +157,5 @@ img:hover {
   top: -0.7em;
   font-size: 1.4em;
   padding: 0 0.3em;
-  background-color: #fff;  
+  background-color: #fff;
 }
-
