@@ -108,6 +108,13 @@ img:hover {
   padding: 0 0.3em;
   background-color: #fff;
 }
+
+.subtitle-description {
+  color: rgb(0, 162, 255); /* Cor do texto */
+
+}
+
+
 .hr_04 {
   border-top: medium dashed #069;
   border-bottom: medium dashed #069;
@@ -159,3 +166,9 @@ img:hover {
   padding: 0 0.3em;
   background-color: #fff;
 }
+
+.course-theme {
+  /* Estilos para os itens de lista imediatamente após uma hr */
+  color: rgb(0, 162, 255); /* Cor do texto */
+}
+
