@@ -48,7 +48,7 @@
 <div align="center">
 <img src="https://media.giphy.com/media/9TFBxN300KpCUI6sBD/giphy.gif" align="center" height="65" width="65">
 
-### [Clique aqui para acessar o Projeto](https://rafarz76dev-curriculostackx.netlify.app/)
+### [Clique aqui para acessar o Projeto](https://raizertechdev-curriculo.netlify.app/)
 
 ---
 
